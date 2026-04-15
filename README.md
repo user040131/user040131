@@ -35,11 +35,10 @@
 
 ---
 
-## GitHub Stats
+## Achievements
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=user040131&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user040131&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=user040131&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
 </div>
 
 ---
