@@ -46,6 +46,6 @@
 
 ## Projects
 
-- [Project 1](PASTE_GITHUB_LINK_HERE)
+- [Project 1](https://github.com/soksak-letter)
 - [Project 2](PASTE_GITHUB_LINK_HERE)
 - [Project 3](PASTE_GITHUB_LINK_HERE)
