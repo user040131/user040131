@@ -31,7 +31,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,docker,aws,githubactions,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,docker,aws,githubactions,html,css&perline=10)](https://skillicons.dev)
 
 ---
 
