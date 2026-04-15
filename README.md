@@ -32,19 +32,3 @@
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,docker,aws,githubactions,html,css&perline=10)](https://skillicons.dev)
-
----
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user040131&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
-
----
-
-## Projects
-
-- [Project 1](https://github.com/soksak-letter)
-- [Project 2](PASTE_GITHUB_LINK_HERE)
-- [Project 3](PASTE_GITHUB_LINK_HERE)
