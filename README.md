@@ -78,12 +78,42 @@ MoniFit Backend
 	Backend server for a healthy spending habit service.	Java, Spring Boot
 📌 Currently Focusing On
 <table> <tr> <td width="33%" align="center"> <h3>Backend</h3> <p>Spring Boot, Node.js, REST API, Authentication</p> </td> <td width="33%" align="center"> <h3>Database</h3> <p>MySQL, Redis, Prisma, JPA, Schema Design</p> </td> <td width="33%" align="center"> <h3>Architecture</h3> <p>Scalable Systems, API Design, Automation</p> </td> </tr> </table>
-📊 GitHub Statistics
+## 📊 GitHub Summary
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=user040131&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user040131&theme=github_dark" 
+  alt="GitHub Profile Summary"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user040131&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<br/>
+<br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user040131&theme=github_dark" 
+  alt="Repos per Language"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user040131&theme=github_dark" 
+  alt="Most Commit Language"
+/>
+
+<br/>
+<br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user040131&theme=github_dark" 
+  alt="GitHub Stats"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user040131&theme=github_dark&utcOffset=9" 
+  alt="Productive Time"
+/>
+
+</div>
 
 <br/>
 
