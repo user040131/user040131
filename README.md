@@ -57,19 +57,10 @@ public class Seungju {
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      🎓 Computer Science student studying software engineering and backend development.
-      <br/><br/>
-      🛠 Mainly focused on Spring Boot, Node.js, Database Design, and REST API Architecture.
-      <br/><br/>
-      🚀 Interested in building practical services, automation tools, and scalable backend systems.
-      <br/><br/>
-      📚 Continuously improving through projects, documentation, and real implementation.
-    </td>
-  </tr>
-</table>
+- 🎓 Computer Science student studying software engineering and backend development.
+- 🛠 Mainly focused on Spring Boot, Node.js, Database Design, and REST API Architecture.
+- 🚀 Interested in building practical services, automation tools, and scalable backend systems.
+- 📚 Continuously improving through projects, documentation, and real implementation.
 
 <br/>
 
@@ -139,12 +130,29 @@ public class Seungju {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Portfolio** | Personal portfolio website built to introduce projects, skills, and development experience. | Next.js, TypeScript, Tailwind CSS |
-| **Soksak Server** | Backend server for a letter-based web application. | Node.js, Express, Prisma, MySQL |
-| **SINO Server** | Backend project developed through team collaboration. | Node.js, Express |
-| **MoniFit Backend** | Backend server for a healthy spending habit service. | Java, Spring Boot |
+### Portfolio
+
+Personal portfolio website built to introduce projects, skills, and development experience.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+### Soksak Server
+
+Backend server for a letter-based web application.
+
+`Node.js` `Express` `Prisma` `MySQL`
+
+### SINO Server
+
+Backend project developed through team collaboration.
+
+`Node.js` `Express`
+
+### MoniFit Backend
+
+Backend server for a healthy spending habit service.
+
+`Java` `Spring Boot`
 
 <br/>
 
@@ -152,22 +160,21 @@ public class Seungju {
 
 ## 📌 Currently Focusing On
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Backend</h3>
-      <p>Spring Boot, Node.js, REST API, Authentication</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Database</h3>
-      <p>MySQL, Redis, Prisma, JPA, Schema Design</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Architecture</h3>
-      <p>Scalable Systems, API Design, Automation</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Backend
+
+Spring Boot · Node.js · REST API · Authentication
+
+### Database
+
+MySQL · Redis · Prisma · JPA · Schema Design
+
+### Architecture
+
+Scalable Systems · API Design · Automation
+
+</div>
 
 <br/>
 
@@ -185,52 +192,41 @@ public class Seungju {
 <br/>
 <br/>
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user040131&theme=github_dark" 
-        alt="Repos per Language"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user040131&theme=github_dark" 
-        alt="Most Commit Language"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user040131&theme=github_dark" 
+    alt="Repos per Language"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user040131&theme=github_dark" 
+    alt="Most Commit Language"
+    width="48%"
+  />
+</p>
 
 <br/>
-<br/>
 
-<table>
-  <tr>
-    <td align="center" valign="middle" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user040131&theme=github_dark" 
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user040131&theme=github_dark&utcOffset=9" 
-        alt="Productive Time"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user040131&theme=github_dark" 
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user040131&theme=github_dark&utcOffset=9" 
+    alt="Productive Time"
+    width="48%"
+  />
+</p>
 
-<br/>
 <br/>
 
 <img 
   src="https://streak-stats.demolab.com?user=user040131&theme=github-dark-blue&hide_border=true" 
   alt="GitHub Streak" 
 />
+
 </div>
 
 <br/>
@@ -239,19 +235,11 @@ public class Seungju {
 
 ## 📝 Recent Interests
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Backend architecture using Spring Boot and Node.js</li>
-        <li>Efficient database design with MySQL, Redis, JPA, and Prisma</li>
-        <li>Automation tools for productivity improvement</li>
-        <li>Clean API design and scalable service structure</li>
-        <li>Practical project-based learning as a CS student</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Backend architecture using Spring Boot and Node.js
+- Efficient database design with MySQL, Redis, JPA, and Prisma
+- Automation tools for productivity improvement
+- Clean API design and scalable service structure
+- Practical project-based learning as a CS student
 
 <br/>
 
