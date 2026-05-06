@@ -185,28 +185,44 @@ public class Seungju {
 <br/>
 <br/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user040131&theme=github_dark" 
-  alt="Repos per Language"
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user040131&theme=github_dark" 
-  alt="Most Commit Language"
-/>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user040131&theme=github_dark" 
+        alt="Repos per Language"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user040131&theme=github_dark" 
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user040131&theme=github_dark" 
-  alt="GitHub Stats"
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user040131&theme=github_dark&utcOffset=9" 
-  alt="Productive Time"
-/>
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user040131&theme=github_dark" 
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user040131&theme=github_dark&utcOffset=9" 
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
@@ -215,15 +231,6 @@ public class Seungju {
   src="https://streak-stats.demolab.com?user=user040131&theme=github-dark-blue&hide_border=true" 
   alt="GitHub Streak" 
 />
-
-<br/>
-<br/>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=user040131&theme=github-compact&hide_border=true" 
-  alt="GitHub Activity Graph" 
-/>
-
 </div>
 
 <br/>
