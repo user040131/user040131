@@ -1,94 +1,108 @@
 <div align="center">
 
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=seungjub270&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18" 
+  alt="header"
+/>
+
 # 👋 Hi, I'm seungjub270
 
-### 🚀 FullStack Developer & CS Student
+### FullStack Developer & Computer Science Student
 
-<p>
-  <a href="https://github.com/user040131">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;FullStack+Developer+%26+CS+Student;Building+Scalable+Backend+Systems" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/user040131">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Backend+Systems;Studying+Computer+Science;Spring+Boot+%7C+Node.js+%7C+MySQL+%7C+AWS" 
+    alt="Typing SVG" 
+  />
+</a>
 
-<p>
-  <a href="mailto:seungjub270@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://user040131.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://velog.io/@user040131/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
-  <a href="https://github.com/user040131"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
----
-
-### 🛠 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="120px"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database / DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user040131&layout=compact&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=user040131&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 🧑‍💻 Recent Activities
-
-<!-- 여기에 최근 진행 중인 프로젝트나 관심사를 적어보세요! -->
-- 🛠 현재 **Spring Boot**와 **Prisma**를 활용한 백엔드 아키텍처 설계에 집중하고 있습니다.
-- 📚 컴퓨터 공학 전공 지식과 효율적인 데이터베이스 관리에 관심이 많습니다.
-- 💡 자동화 도구 및 생산성 향상을 위한 **Chrome Extension** 개발 프로젝트를 구상 중입니다.
+<a href="mailto:seungjub270@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://user040131.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://velog.io/@user040131/posts">
+  <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+</a>
+<a href="https://github.com/user040131">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class Seungju {
+    String role = "FullStack Developer & CS Student";
+    String mainFocus = "Backend Architecture";
+    String[] interests = {
+        "Spring Boot",
+        "Node.js / Express",
+        "Database Design",
+        "REST API",
+        "Automation Tools",
+        "Scalable Backend Systems"
+    };
+}
+```
+🎓 Computer Science student studying software engineering and backend development.
+🛠 Mainly focused on Spring Boot, Node.js, Database Design, and REST API Architecture.
+🚀 Interested in building practical services, automation tools, and scalable backend systems.
+📚 Continuously improving through projects, documentation, and real implementation.
+🛠 Tech Stack
+Languages
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/> </p>
+Backend
+<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> </p>
+Frontend & App
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> </p>
+Database & DevOps
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> </p>
+Tools
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> </p>
+🚀 Featured Projects
+Project	Description	Tech
+Portfolio
+	Personal portfolio website built to introduce projects, skills, and development experience.	Next.js, TypeScript, Tailwind CSS
+Soksak Server
+	Backend server for a letter-based web application.	Node.js, Express, Prisma, MySQL
+SINO Server
+	Backend project developed through team collaboration.	Node.js, Express
+MoniFit Backend
+	Backend server for a healthy spending habit service.	Java, Spring Boot
+📌 Currently Focusing On
+<table> <tr> <td width="33%" align="center"> <h3>Backend</h3> <p>Spring Boot, Node.js, REST API, Authentication</p> </td> <td width="33%" align="center"> <h3>Database</h3> <p>MySQL, Redis, Prisma, JPA, Schema Design</p> </td> <td width="33%" align="center"> <h3>Architecture</h3> <p>Scalable Systems, API Design, Automation</p> </td> </tr> </table>
+📊 GitHub Statistics
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=user040131&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user040131&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=user040131&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=user040131&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+📝 Recent Interests
+Backend architecture using Spring Boot and Node.js
+Efficient database design with MySQL, Redis, JPA, and Prisma
+Automation tools for productivity improvement
+Clean API design and scalable service structure
+Practical project-based learning as a CS student
+<div align="center">
+Thanks for visiting my GitHub profile.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="footer" />
+
+</div> 
