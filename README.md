@@ -42,7 +42,7 @@
         <li>2025년도 2학기, 교내 동아리 <i>Leets</i> 및 연합 동아리 <i>UMC</i> 참여</li>
         <li><i>UMC</i> 장기 해커톤 <b>SINO</b> Node.js 파트 참여, 우수상 수상</li>
         <li><i>UMC</i> 데모데이 <b>속삭편지</b> Node.js 파트 참여, 우수상 수상 / UMC Node.js 파트 수료</li>
-        <li><i>Leets</i> 최종 프로젝트 <b>MoniFit</b> Spring Boot 파트 참여 / Leets Spring Boot 파트 수료</li>
+        <li><i>Leets</i> 최종 프로젝트 <b>MoniFit</b> Spring Boot 파트 참여 / Leets Server 파트 수료</li>
     </ul>
     <h3>2026</h3>
     <ul style="list-style-type: disc; line-height: 1.6;">
